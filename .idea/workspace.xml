@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3ca2b553-b06c-49cc-a897-ffb1995d9b1f" name="Default Changelist" comment="" />
+    <list default="true" id="3ca2b553-b06c-49cc-a897-ffb1995d9b1f" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignor" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main_test.go" beforeDir="false" afterPath="$PROJECT_DIR$/main_test.go" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -41,7 +46,7 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
-  <component name="RunManager" selected="Go Test.Test_distance in homework">
+  <component name="RunManager" selected="Go Build.go build main.go">
     <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" activateToolWindowBeforeRun="false" temporary="true" nameIsGenerated="true">
       <module name="homework" />
       <working_directory value="$PROJECT_DIR$" />
@@ -74,9 +79,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Go Build.go build main.go" />
         <item itemvalue="Go Test.Test_distance in homework" />
         <item itemvalue="Go Test.go test homework" />
-        <item itemvalue="Go Build.go build main.go" />
       </list>
     </recent_temporary>
   </component>
@@ -100,25 +105,37 @@
     <proxy>direct</proxy>
   </component>
   <component name="WindowStateProjectService">
+    <state x="446" y="172" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1578553103907">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="446" y="172" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.738@0.0.1366.738" timestamp="1578553103907" />
     <state x="402" y="20" key="#go_build_main.go" timestamp="1578217114217">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="402" y="20" key="#go_build_main.go/0.0.1366.768@0.0.1366.768" timestamp="1578217114217" />
-    <state width="1323" height="192" key="GridCell.Tab.0.bottom" timestamp="1578339147525">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1578403519031">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state x="463" y="124" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1578403519031" />
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom" timestamp="1578552170320">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.bottom/0.0.1366.738@0.0.1366.738" timestamp="1578552170320" />
     <state width="1323" height="192" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1578339147525" />
-    <state width="1323" height="192" key="GridCell.Tab.0.center" timestamp="1578339147525">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1323" height="182" key="GridCell.Tab.0.center" timestamp="1578552170319">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.center/0.0.1366.738@0.0.1366.738" timestamp="1578552170319" />
     <state width="1323" height="192" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1578339147525" />
-    <state width="1323" height="192" key="GridCell.Tab.0.left" timestamp="1578339147525">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1323" height="182" key="GridCell.Tab.0.left" timestamp="1578552170319">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.left/0.0.1366.738@0.0.1366.738" timestamp="1578552170319" />
     <state width="1323" height="192" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1578339147525" />
-    <state width="1323" height="192" key="GridCell.Tab.0.right" timestamp="1578339147525">
-      <screen x="0" y="0" width="1366" height="768" />
+    <state width="1323" height="182" key="GridCell.Tab.0.right" timestamp="1578552170320">
+      <screen x="0" y="0" width="1366" height="738" />
     </state>
+    <state width="1323" height="182" key="GridCell.Tab.0.right/0.0.1366.738@0.0.1366.738" timestamp="1578552170320" />
     <state width="1323" height="192" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1578339147525" />
     <state x="404" y="124" width="540" height="524" key="StructurePopup" timestamp="1578217840294">
       <screen x="0" y="0" width="1366" height="768" />
