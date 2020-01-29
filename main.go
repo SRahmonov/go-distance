@@ -5,7 +5,7 @@ func main() {
 }
 
 func distance(volumeFuel int, consumptionFuel int) int {
-	const maxDistance = 100
-	carCanRideFor := maxDistance * consumptionFuel / volumeFuel
+	const distanceInKm = 100
+	carCanRideFor := distanceInKm * consumptionFuel / volumeFuel
 	return carCanRideFor
 }
